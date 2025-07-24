@@ -30,8 +30,8 @@ venv\Scripts\activate
 print("¡Hola, mundo!")
 
 # Tipos de datos
-nombre = "Héctor"
-edad = 50
+nombre = "Pepito"
+edad = 30
 altura = 1.75
 activo = True
 
