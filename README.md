@@ -5,15 +5,18 @@ Este repositorio contiene la ruta de aprendizaje intensiva en Python, diseñada 
 
 ## 📅 Cronograma de Estudio
 
-| Día | Temas cubiertos |
-|-----|------------------|
-| Día 1 | `print()`, `input()`, variables, entorno virtual |
-| Día 2 | `if`, `elif`, `else`, operadores lógicos |
-| Día 3 | Bucles `for`, `while`, listas y diccionarios |
-| Día 4 | Funciones, parámetros, módulos |
-| Día 5 | Archivos `.txt` y `.csv`, introducción a `pandas` |
-| Día 6 | Limpieza y análisis de datos con `pandas` |
-| Día 7 | Mini proyecto: limpieza y exportación a Excel con columna calculada |
+### 📚 Accede al contenido del curso por días
+
+| Día | Tema | Enlace |
+|-----|------|--------|
+| Día 1 | `print()`, `input()`, variables, entorno virtual | [Ver Día 1](./Dia%201/README.md) |
+| Día 2 | Condicionales (`if`, `elif`, `else`) y operadores | [Ver Día 2](./Dia%202/README.md) |
+| Día 3 | Bucles `for`, `while`, listas y diccionarios | [Ver Día 3](./Dia%203/README.md) |
+| Día 4 | Funciones, módulos, parámetros | [Ver Día 4](./Dia%204/README.md) |
+| Día 5 | Archivos `.txt`, `.csv` y pandas | [Ver Día 5](./Dia%205/README.md) |
+| Día 6 | Limpieza y análisis de datos | [Ver Día 6](./Dia%206/README.md) |
+| Día 7 | Mini proyecto + Exportación a Excel | [Ver Día 7](./Dia%207/README.md) |
+
 
 ---
 
