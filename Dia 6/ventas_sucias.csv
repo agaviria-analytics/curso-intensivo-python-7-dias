@@ -1,0 +1,10 @@
+cliente,producto,cantidad,precio_unitario,total
+Ana,Arroz,2.0,2500,5000
+Luis,Azúcar,3.0,3000,9000
+Luis,Azúcar,3.0,3000,9000
+Carlos,Café,1.0,5000,5000
+,Aceite,5.0,4500,22500
+Ana,Arroz,2.0,2500,5000
+Marta,Arroz,,2500,2500
+Pedro,Sal,4.0,1500,6000
+Luis,Azúcar,3.0,error,9000

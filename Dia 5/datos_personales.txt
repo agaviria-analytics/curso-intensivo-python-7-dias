@@ -1,0 +1,3 @@
+nombre: Pepito Perez
+edad : 38
+ciudad : Cali
