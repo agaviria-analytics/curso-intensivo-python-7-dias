@@ -84,6 +84,3 @@ print(df[df["precio"] > 5000])
 - Guarda los archivos `.csv` en la misma carpeta del script para evitar errores de ruta
 
 ---
-
-✅ ¡Día 5 completado!  
-Ya sabes manipular archivos reales y explorar datos con `pandas`, una habilidad clave para cualquier Analista de Datos.
